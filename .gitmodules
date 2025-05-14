@@ -1,0 +1,6 @@
+[submodule "cdc-schema-registry-service/iac-bigquery-table"]
+	path = cdc-schema-registry-service/iac-bigquery-table
+	url = ssh://git@swissknife.vip:2224/bi/data/iac-bigquery-table.git
+[submodule "cdc-schema-registry-service/cdc-debezium-server"]
+	path = cdc-schema-registry-service/cdc-debezium-server
+	url = ssh://git@swissknife.vip:2224/bi/data/cdc-debezium-server.git
